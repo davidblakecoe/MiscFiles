@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Setup]
+"UpdateProfiles"=dword:00028e2a
+"DeleteVBEToolboxCustomization"=dword:00000000
+"RegisterForms"=dword:00028e2a
+"MigratePrefs"=dword:00000001
+"ImportSRS"=dword:00028e2a
+"First-Run"=hex:d9,84,cb,9f,39,1f,22,42,86,f2,8f,5f,67,cf,bf,3a
+"DisableOffice365SimplifiedAccountCreation"=dword:00000001
+
