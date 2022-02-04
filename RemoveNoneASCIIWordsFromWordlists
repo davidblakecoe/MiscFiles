@@ -1,0 +1,1 @@
+perl -nle 'print if m{^[[:ascii:]]+$}' wordlist >> newwordlist
